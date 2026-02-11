@@ -1,3 +1,8 @@
+Fork of afancontrol
+PWM PC Fan control Through Arduino (Uno), for Mainboards (or general devices), that come with a Fan Header but don't allow User configured Fancontrol or control over the builtin PWM controller.
+
+
+Credits to Kostya Esmukov and additional Contributers of the original afancontrol Repository!!!
 afancontrol
 ===========
 
